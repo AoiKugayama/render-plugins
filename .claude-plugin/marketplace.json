@@ -1,0 +1,16 @@
+{
+  "name": "render-plugins",
+  "version": "1.0.0",
+  "description": "Render — Claude Code Plugin Marketplace",
+  "owner": {
+    "name": "Render (AoiKugayama)"
+  },
+  "plugins": [
+    {
+      "name": "roas-funnel",
+      "description": "ROASが絶対に合う導線設計OS — 3ヶ月ROAS500%を実現するファネル構築・CS設計・バックエンド最大化",
+      "version": "1.0.0",
+      "source": "./roas-funnel"
+    }
+  ]
+}
