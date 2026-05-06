@@ -1,11 +1,11 @@
 {
   "name": "roas-funnel",
   "version": "1.0.0",
-  "description": "ROAS Funnel OS ? 3-month ROAS 500% funnel design, CS architecture, and backend maximization",
+  "description": "ROAS Funnel OS - 3-month ROAS 500% funnel design, CS architecture, and backend maximization",
   "commands": [
     {
       "name": "roas-funnel",
-      "description": "ROAS Funnel OS ? funnel design, CS flow, and backend maximization",
+      "description": "ROAS Funnel OS - funnel design, CS flow, and backend maximization",
       "path": "commands/ROAS-FUNNEL.md"
     }
   ]
