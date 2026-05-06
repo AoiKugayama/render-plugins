@@ -1,11 +1,11 @@
 {
   "name": "president-eval",
   "version": "1.0.0",
-  "description": "AI Board Evaluation ? Claude reads your conversation & memory to produce a 7-section board-level self-evaluation. Private output only.",
+  "description": "AI Board Evaluation - Claude reads your conversation & memory to produce a 7-section board-level self-evaluation. Private output only.",
   "commands": [
     {
       "name": "president-eval",
-      "description": "AI Board Evaluation ? 7-section board-level self-evaluation from your conversation, memory, and project files",
+      "description": "AI Board Evaluation - 7-section board-level self-evaluation from your conversation, memory, and project files",
       "path": "commands/president-eval.md"
     }
   ]
