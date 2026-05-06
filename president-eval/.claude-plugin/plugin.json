@@ -1,0 +1,5 @@
+{
+  "name": "president-eval",
+  "version": "1.0.0",
+  "description": "AI Board Evaluation — Claude reads your conversation & memory to produce a 7-section board-level self-evaluation. Private output only."
+}
