@@ -1,5 +1,12 @@
 {
   "name": "roas-funnel",
   "version": "1.0.0",
-  "description": "ROASが絶対に合う導線設計OS — 3ヶ月ROAS500%を実現するファネル構築・CS設計・バックエンド最大化"
+  "description": "ROAS Funnel OS ? 3-month ROAS 500% funnel design, CS architecture, and backend maximization",
+  "commands": [
+    {
+      "name": "roas-funnel",
+      "description": "ROAS Funnel OS ? funnel design, CS flow, and backend maximization",
+      "path": "commands/ROAS-FUNNEL.md"
+    }
+  ]
 }
