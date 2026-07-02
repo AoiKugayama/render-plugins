@@ -9,8 +9,14 @@
     {
       "name": "president-eval",
       "description": "AI Board Evaluation - Claude reads your conversation & memory to produce a 7-section board-level self-evaluation. Private output only.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./president-eval"
+    },
+    {
+      "name": "roas-funnel",
+      "description": "ROAS Funnel OS - 3-month ROAS 500% funnel design, CS architecture, and backend maximization",
+      "version": "1.0.1",
+      "source": "./roas-funnel"
     }
   ]
 }
